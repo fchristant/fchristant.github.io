@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://fchristant.github.io
+title: Ferdy Christant
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
